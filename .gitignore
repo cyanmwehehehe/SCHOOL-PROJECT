@@ -1,0 +1,40 @@
+# XAMPP / Local environment
+/libs/fpdf/doc/
+/libs/fpdf/tutorial/
+
+# Environment & Config secrets
+config/secrets.php
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# PHP cache
+*.cache
+/tmp/
+
+# Node modules (if any)
+node_modules/
+
+# Logs
+*.log
+error_log
+
+# Compiled/generated files
+*.min.js
+*.min.css
+
+# Database exports (keep only in /database folder)
+*.sql.bak
+
+# Uploaded user files
+/uploads/temp/
