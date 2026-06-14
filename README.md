@@ -262,7 +262,7 @@ Fully normalized to **3NF** with 11 tables:
 | [Member 4] | Reports & Export |
 | [Member 5] | Documentation & Security |
 
-**Course:** BS Information Technology 201
+**Course:** BS Information Technology 202
 **Subject:** DCIT 55B — Advanced Database System / ITEC 65A — Open-Source Technologies
 **School:** Cavite State University — CvSU CCAT Campus
 **Semester:** 2nd Semester, A.Y. 2025-2026
